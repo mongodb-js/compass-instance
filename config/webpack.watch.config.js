@@ -26,7 +26,7 @@ const config = {
     publicPath: '/',
     filename: '[name].js',
     // Export our plugin as a UMD library (compatible with all module definitions - CommonJS, AMD and global variable)
-    library: 'InstanceHeaderPlugin',
+    library: 'InstancePlugin',
     libraryTarget: 'umd'
   },
   module: {
