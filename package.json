@@ -73,7 +73,7 @@
     "font-awesome": "^4.7.0",
     "hadron-app": "^3.2.1",
     "hadron-app-registry": "^7.2.0",
-    "hadron-react-bson": "^3.4.0",
+    "hadron-react-bson": "^4.0.2",
     "hadron-react-buttons": "^3.4.0",
     "hadron-react-components": "^3.5.1",
     "hadron-spectron": "^5.0.0",
